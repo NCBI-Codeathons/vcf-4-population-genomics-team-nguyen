@@ -2,11 +2,11 @@
 Minor Variant Miners
 
 List of participants and affiliations
-- Team Leader - Tung
-- Tech lead - Stephen, Tung
-- Writer - Nidia, Cecile 
-- Metadata - Eneida, Jie 
-- SQL query for the TF-IDF - Jie, Sunky
+- Team Leader - Tung H. Nguyen
+- Tech Leads - Stephen Panossian, Tung H. Nguyen
+- Writers - Nidia S. Trovao, Cecile Viboud
+- Metadata - Eneida Hatcher, Jie Lu
+- SQL query for the TF-IDF - Jie Lu, Kaiyuan Sun
 
 ## Project Goals
 Do SCV2 mutations have same minor allele frequencies?
