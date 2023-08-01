@@ -2,7 +2,7 @@
 Minor Variant Miners
 
 List of participants and affiliations
-- Team Leader - Tung H. Nguyen
+- Team Leader - Tung H. Nguyen (tung.nguyen@nih.gov)
 - Tech Leads - Stephen Panossian, Tung H. Nguyen
 - Writers - Nidia S. Trovao, Cecile Viboud
 - Metadata - Eneida Hatcher, Jie Lu
