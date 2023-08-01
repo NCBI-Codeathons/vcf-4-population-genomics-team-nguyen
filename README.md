@@ -1,5 +1,4 @@
-# Team Project Name
-Minor Variant Miners
+# Minor Variant Miners
 
 List of participants and affiliations
 - Team Leader - Tung H. Nguyen (tung.nguyen@nih.gov)
@@ -7,6 +6,9 @@ List of participants and affiliations
 - Writers - Nidia S. Trovao, Cecile Viboud
 - Metadata - Eneida Hatcher, Jie Lu
 - SQL query for the TF-IDF - Jie Lu, Kaiyuan Sun
+
+## Table of Contents
+
 
 ## Project Goals
 Do SCV2 mutations have same minor allele frequencies?
@@ -40,3 +42,11 @@ Minor (??) and consensus (https://virological.org/t/issues-with-sars-cov-2-seque
 ## Results
 
 ## Future Work
+
+## References
+
+## Acknowledgemnts
+
+We thank Dr. Ryan Connor (NCBI) for advice on how to mine the VCF files.
+
+
