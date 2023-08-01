@@ -11,7 +11,8 @@ List of participants and affiliations
 
 
 ## Project Goals
-Do SCV2 mutations have same minor allele frequencies?
+We will use language models to identify whether specific SARS-CoV-2 (SCV2) sequencing errors come from particular sequencing centers, instruments, or sequencing protocols. Other factors potentially affecting errors include characteristics of the host (treatment or vaccination) and virus variants. 
+A more general question is whether SCV2 mutations have same minor allele frequencies?
 
 ## Approach
 ACTION ITEM
