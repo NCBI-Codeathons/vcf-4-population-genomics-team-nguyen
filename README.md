@@ -15,7 +15,7 @@ Do SCV2 mutations have same minor allele frequencies?
 ACTION ITEM
 1) Ask Ryan for the TF-IDF query for mutations he used on variant of concerns as a document. JIE, SUNKY: chat with Ryan, get coached on the best way for VCFs.
 MAF of > 15%, is there a way to unrestrict, whether it makes to do that.
-2) Nidia, works on the introduction. https://virological.org/t/issues-with-sars-cov-2-sequencing-data/473 https://www.biorxiv.org/content/10.1101/2023.01.30.526314v2.full.pdf
+2) Nidia and Cecile, works on the introduction. https://virological.org/t/issues-with-sars-cov-2-sequencing-data/473 https://www.biorxiv.org/content/10.1101/2023.01.30.526314v2.full.pdf
 3) Stephen, make sure the software is understandable and well documented. https://github.com/NCBI-Codeathons/vcf-4-population-genomics-team-nguyen
 Each person should just have separate scripts, files, folders.
 
