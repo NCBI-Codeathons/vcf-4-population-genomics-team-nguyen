@@ -5,7 +5,7 @@ List of participants and affiliations
 - Tech Leads - [Stephen Panossian](https://github.com/StephenP20904), [Tung H. Nguyen](https://github.com/tn-7)
 - Writers - [Nidia S. Trovao](https://github.com/nidiatrovao), [Cecile Viboud](https://github.com/viboudc)
 - Metadata - [Eneida Hatcher](https://github.com/Nadapotata), [Jie Lu](TBD)
-- SQL query for the TF-IDF - [Jie Lu](TBD), [Kaiyuan Sun](TBD)
+- SQL query for the TF-IDF - [Jie Lu](TBD), [Kaiyuan Sun](https://github.com/sunky1016)
 
 [Contact us!](mailto:tung.nguyen@nih.gov)
 
