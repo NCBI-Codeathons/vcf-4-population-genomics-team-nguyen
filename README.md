@@ -1,14 +1,21 @@
 # Minor Variant Miners
 
 List of participants and affiliations
-- Team Leader - [Tung H. Nguyen](https://github.com/tn-7) (tung.nguyen@nih.gov)
+- Team Leader - [Tung H. Nguyen](https://github.com/tn-7) 
 - Tech Leads - [Stephen Panossian](https://github.com/StephenP20904), [Tung H. Nguyen](https://github.com/tn-7)
 - Writers - [Nidia S. Trovao](https://github.com/nidiatrovao), [Cecile Viboud](https://github.com/viboudc)
 - Metadata - [Eneida Hatcher](TBD), [Jie Lu](TBD)
 - SQL query for the TF-IDF - [Jie Lu](TBD), [Kaiyuan Sun](TBD)
 
-## Table of Contents
+[Contact us!](mailto:tung.nguyen@nih.gov)
 
+## Table of Contents
+[Project Goals](#project-goals)\
+[Approach](#approach)\
+[Results](#results)\
+[Future Work](#future-work)\
+[References](#references)\
+[Acknowledgements](#acknowledgements)
 
 ## Project Goals
 We will use language models to identify whether specific SARS-CoV-2 (SCV2) sequencing errors come from particular sequencing centers, instruments, or sequencing protocols. Other factors potentially affecting errors include characteristics of the host (treatment or vaccination) and virus variants. 
@@ -16,7 +23,7 @@ A more general question is whether SCV2 mutations have same minor allele frequen
 
 ## Approach
 ACTION ITEM
-1) Ask Ryan for the TF-IDF query for mutations he used on variant of concerns as a document. JIE, SUNKY: chat with Ryan, get coached on the best way for VCFs.
+1) Ask Ryan for the TF-IDF query for mutations he used on variant of concerns as a document. Jie, Sunky: chat with Ryan, get coached on the best way for VCFs.
 MAF of > 15%, is there a way to unrestrict, whether it makes to do that.
 2) Nidia and Cecile work on the introduction. https://virological.org/t/issues-with-sars-cov-2-sequencing-data/473 https://www.biorxiv.org/content/10.1101/2023.01.30.526314v2.full.pdf
 3) Stephen, make sure the software is understandable and well documented. https://github.com/NCBI-Codeathons/vcf-4-population-genomics-team-nguyen
@@ -46,7 +53,7 @@ Minor (??) and consensus (https://virological.org/t/issues-with-sars-cov-2-seque
 
 ## References
 
-## Acknowledgemnts
+## Acknowledgements
 
 We thank Dr. Ryan Connor (NCBI) for advice on how to mine the VCF files.
 
