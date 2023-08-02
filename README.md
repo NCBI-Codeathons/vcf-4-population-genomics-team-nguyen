@@ -1,11 +1,11 @@
 # Minor Variant Miners
 
 List of participants and affiliations
-- Team Leader - Tung H. Nguyen (tung.nguyen@nih.gov)
-- Tech Leads - Stephen Panossian, Tung H. Nguyen
-- Writers - Nidia S. Trovao, Cecile Viboud
-- Metadata - Eneida Hatcher, Jie Lu
-- SQL query for the TF-IDF - Jie Lu, Kaiyuan Sun
+- Team Leader - [Tung H. Nguyen](https://github.com/tn-7) (tung.nguyen@nih.gov)
+- Tech Leads - [Stephen Panossian](https://github.com/StephenP20904), [Tung H. Nguyen](https://github.com/tn-7)
+- Writers - [Nidia S. Trovao](https://github.com/nidiatrovao), [Cecile Viboud](https://github.com/viboudc)
+- Metadata - [Eneida Hatcher](TBD), [Jie Lu](TBD)
+- SQL query for the TF-IDF - [Jie Lu](TBD), [Kaiyuan Sun](TBD)
 
 ## Table of Contents
 
