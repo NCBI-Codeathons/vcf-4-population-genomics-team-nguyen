@@ -4,8 +4,8 @@ List of participants and affiliations
 - Team Leader - [Tung H. Nguyen](https://github.com/tn-7) 
 - Tech Leads - [Stephen Panossian](https://github.com/StephenP20904), [Tung H. Nguyen](https://github.com/tn-7)
 - Writers - [Nidia S. Trovao](https://github.com/nidiatrovao), [Cecile Viboud](https://github.com/viboudc)
-- Metadata - [Eneida Hatcher](https://github.com/Nadapotata), [Jie Lu](jl32587)
-- SQL query for the TF-IDF - [Jie Lu](jl32587), [Kaiyuan Sun](https://github.com/sunky1016)
+- Metadata - [Eneida Hatcher](https://github.com/Nadapotata), [Jie Lu](https://github.com/jl32587)
+- SQL query for the TF-IDF - [Jie Lu](https://github.com/jl32587), [Kaiyuan Sun](https://github.com/sunky1016)
 
 [Contact us!](mailto:tung.nguyen@nih.gov)
 
@@ -55,6 +55,6 @@ Minor (??) and consensus (https://virological.org/t/issues-with-sars-cov-2-seque
 
 ## Acknowledgements
 
-We thank Dr. [Ryan Connor](Arghcee) (NCBI) for advice on how to mine the VCF files.
+We thank Dr. [Ryan Connor](https://github.com/Arghcee) (NCBI) for advice on how to mine the VCF files.
 
 
